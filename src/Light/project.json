@@ -10,6 +10,8 @@
 
     "dependencies": {
         "Color": "",
+        "Point": "",
+        "Vector": "",
         "FSharp.Dnx": {
             "type": "build",
             "version": "1.0.0-*"
@@ -31,8 +33,8 @@
     },
     "fsharp": {
         "files": [
-            "AmbientLight.fsi"
-            "AmbientLight.fs"
+            "Light.fsi",
+            "Light.fs"
         ]
     }
 }

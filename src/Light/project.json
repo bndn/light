@@ -1,10 +1,13 @@
 {
     "version": "0.0.0",
-    "description": "",
+    "description": "A library for modelling various forms of colored lighting",
     "authors": [
         "Kathrin Solveig Schmid Jonsson <ksoj@itu.dk>"
     ],
     "tags": [
+        "light",
+        "model",
+        "color"
     ],
     "projectUrl": "https://github.itu.dk/bndn/light",
     "licenseUrl": "https://github.itu.dk/bndn/light/blob/master/LICENSE.md",
